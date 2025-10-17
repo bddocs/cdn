@@ -1,6 +1,6 @@
 {
     "setting": {
-        "timeLimit": 30,
+        "timeLimit": 25,
         "showExplanation": true,
         "pointsPerCorrect": 1,
         "shuffleQuestions": false
